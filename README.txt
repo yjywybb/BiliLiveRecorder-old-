@@ -15,3 +15,7 @@
 
 BiliDMLib.dll & BilibiliDM_PluginFramework.dll，
 以及部分弹幕监视代码来自弹幕姬，由WTFPL授权授权许可使用。
+
+===============================================================
+
+项目移至：https://github.com/Bililive/Bililive_Recorder
